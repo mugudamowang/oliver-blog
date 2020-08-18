@@ -1,0 +1,14 @@
+{
+    "gitbook": "3.x.x",
+    "title": "Oliver's Blog",
+    "description": "Keep Striving",
+    "author": "Oliver Stark",
+    "isbn": "",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "↗GitHub": "https://github.com/mugudamowang",
+            "↗Bukun": "https://www.bukun.top/"
+        }
+    }
+}
