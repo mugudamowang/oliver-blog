@@ -1,6 +1,10 @@
-# Oliver's Blog--Keep Striving
+---
+description: 'It is hard to find a ideal way to ingratiate your life. So keep striving, Bro!'
+---
 
-###  📓关于本书
+# Sta⭐t
+
+## 📓关于本书
 
 Hello，这里是Oliver，一个在前端和设计路上努力学习的思考者、初学者。之前试过了Hexo博客建站，wordpress， 甚至去买过国外VPS服务器建站。但是很大程度上忽视了Blog的出发点，以及一个初学者对于知识管理的重要性。
 
