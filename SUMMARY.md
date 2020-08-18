@@ -1,6 +1,7 @@
 # Table of contents
 
 * [✨Start](README.md)
+* [Weekly](Weekly.md)
 * 📓CS-Note
     * Algorithms
     * Network
